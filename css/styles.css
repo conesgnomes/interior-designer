@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+.columns {
+  width: 30%;
+  float: left;
+  margin: 10px;
+
+}
+
+.before {
+  background-color: #c6daf2;
+  border-style: ridge;
+  height: 1000px;
+}
+
+.during {
+  background-color: #99bce5;
+  border-style: ridge;
+  height: 1000px;
+}
+
+.after {
+  background-color: #609de5;
+  border-style: ridge;
+  height: 1000px;
+}
